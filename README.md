@@ -1,1 +1,2 @@
-# star-wars-intro
+- Generate Star Wars intro on Canvas
+- generate mp4 file of intro
